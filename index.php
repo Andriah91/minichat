@@ -13,7 +13,7 @@
     <script src="script/chat.js"> </script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
-    <link rel="stylesheet" href="chat.css">
+    <link rel="stylesheet" href="script/chat.css">
 </head>
 <body ng-controller="minichatCtrl">
     <div class="container">
